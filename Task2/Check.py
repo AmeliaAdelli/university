@@ -1,3 +1,7 @@
+'''
+код для проверки написан преподавателем
+'''
+
 from math import floor
 from os import environ
 from os.path import join
